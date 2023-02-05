@@ -14,7 +14,7 @@ body {
 .landing {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/top-background.jpg);
+    background: url(../image/top-background.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -49,7 +49,7 @@ header ul li a {
 .about {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/about.jpg);
+    background: url(../image/about.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -58,7 +58,7 @@ header ul li a {
 .about2 {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/about2.jpg);
+    background: url(../image/about2.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -83,7 +83,7 @@ header ul li a {
 .fire {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/fire.jpg);
+    background: url(../image/fire.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -92,7 +92,7 @@ header ul li a {
 .fire2 {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/fire2.jpg);
+    background: url(../image/fire2.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -101,7 +101,7 @@ header ul li a {
 .farah {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/farah.jpg);
+    background: url(../image/farah.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -110,7 +110,7 @@ header ul li a {
 .farah2 {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/farah2.jpg);
+    background: url(../image/farah2.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -119,7 +119,7 @@ header ul li a {
 .gogosh {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/gogosh.jpg);
+    background: url(../image/gogosh.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -128,7 +128,7 @@ header ul li a {
 .mafia {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/mafia.jpg);
+    background: url(../image/mafia.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -137,7 +137,7 @@ header ul li a {
 .mafia2 {
     width: 100%;
     height: 100vh;
-    background: url(/assets/image/mafia2.jpg);
+    background: url(../image/mafia2.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
